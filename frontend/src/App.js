@@ -1,5 +1,6 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 
+
 import EditEventPage from './pages/EditEvent';
 import EventDetailPage from './pages/EventDetail';
 import EventsPage from './pages/Events';
